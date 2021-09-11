@@ -14,7 +14,7 @@
   
   <div>
   
-<a href="https://www.linkedin.com/in/thais-gon%C3%A7alves-gaiardo/" target="_blank">
+<a href="https://www.linkedin.com/in/thais-goncalves-gaiardo/" target="_blank">
 <img align="center" alt="thais-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
 </a>
 
